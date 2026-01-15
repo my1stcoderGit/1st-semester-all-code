@@ -1,0 +1,8 @@
+D:\HP\VS Projects\CPL Projects\free\free\bin\Debug\free.exe.config
+D:\HP\VS Projects\CPL Projects\free\free\bin\Debug\free.exe
+D:\HP\VS Projects\CPL Projects\free\free\bin\Debug\free.pdb
+D:\HP\VS Projects\CPL Projects\free\free\obj\Debug\free.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CPL Projects\free\free\obj\Debug\free.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CPL Projects\free\free\obj\Debug\free.exe
+D:\HP\VS Projects\CPL Projects\free\free\obj\Debug\free.pdb
+D:\HP\VS Projects\CPL Projects\free\free\obj\Debug\free.exe.config

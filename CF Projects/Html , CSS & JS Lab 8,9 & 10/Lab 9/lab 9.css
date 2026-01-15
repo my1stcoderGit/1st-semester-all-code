@@ -1,0 +1,47 @@
+
+
+.nav1 {
+    background-color: black;
+    display: flex;
+    align-items: center;
+}
+
+.nav1 button {
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.nav1 .green {
+    background-color: green;
+    color: white;
+}
+
+.nav1 .right {
+    margin-left: auto; /* pushes About to the far right */
+}
+
+.nav2 {
+    background-color: #F3F3F3;
+    display: flex;
+    align-items: center;
+}
+
+.nav2 button {
+    background-color: #F3F3F3;
+    color: black;
+    padding: 14px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.nav2 .blue {
+    background-color: blue;
+    color: white;
+}
+
+.nav2 .right {
+    margin-left: auto; /* pushes About to the far right */
+}

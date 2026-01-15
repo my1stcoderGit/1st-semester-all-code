@@ -1,0 +1,8 @@
+D:\HP\VS Projects\CPL Projects\OEL\OEL\obj\Debug\OEL.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CPL Projects\OEL\OEL\obj\Debug\OEL.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CPL Projects\OEL\OEL\bin\Debug\OEL.exe.config
+D:\HP\VS Projects\CPL Projects\OEL\OEL\bin\Debug\OEL.exe
+D:\HP\VS Projects\CPL Projects\OEL\OEL\bin\Debug\OEL.pdb
+D:\HP\VS Projects\CPL Projects\OEL\OEL\obj\Debug\OEL.exe
+D:\HP\VS Projects\CPL Projects\OEL\OEL\obj\Debug\OEL.pdb
+D:\HP\VS Projects\CPL Projects\OEL\OEL\obj\Debug\OEL.exe.config

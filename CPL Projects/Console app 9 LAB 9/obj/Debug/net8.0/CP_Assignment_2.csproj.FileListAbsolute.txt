@@ -1,0 +1,28 @@
+D:\HP\VS Projects\CP Projects\CP Assignment 2\bin\Debug\net8.0\CP_Assignment_2.exe
+D:\HP\VS Projects\CP Projects\CP Assignment 2\bin\Debug\net8.0\CP_Assignment_2.deps.json
+D:\HP\VS Projects\CP Projects\CP Assignment 2\bin\Debug\net8.0\CP_Assignment_2.runtimeconfig.json
+D:\HP\VS Projects\CP Projects\CP Assignment 2\bin\Debug\net8.0\CP_Assignment_2.dll
+D:\HP\VS Projects\CP Projects\CP Assignment 2\bin\Debug\net8.0\CP_Assignment_2.pdb
+D:\HP\VS Projects\CP Projects\CP Assignment 2\obj\Debug\net8.0\CP_Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HP\VS Projects\CP Projects\CP Assignment 2\obj\Debug\net8.0\CP_Assignment_2.AssemblyInfoInputs.cache
+D:\HP\VS Projects\CP Projects\CP Assignment 2\obj\Debug\net8.0\CP_Assignment_2.AssemblyInfo.cs
+D:\HP\VS Projects\CP Projects\CP Assignment 2\obj\Debug\net8.0\CP_Assignment_2.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CP Projects\CP Assignment 2\obj\Debug\net8.0\CP_Assignment_2.dll
+D:\HP\VS Projects\CP Projects\CP Assignment 2\obj\Debug\net8.0\refint\CP_Assignment_2.dll
+D:\HP\VS Projects\CP Projects\CP Assignment 2\obj\Debug\net8.0\CP_Assignment_2.pdb
+D:\HP\VS Projects\CP Projects\CP Assignment 2\obj\Debug\net8.0\CP_Assignment_2.genruntimeconfig.cache
+D:\HP\VS Projects\CP Projects\CP Assignment 2\obj\Debug\net8.0\ref\CP_Assignment_2.dll
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\bin\Debug\net8.0\CP_Assignment_2.exe
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\bin\Debug\net8.0\CP_Assignment_2.deps.json
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\bin\Debug\net8.0\CP_Assignment_2.runtimeconfig.json
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\bin\Debug\net8.0\CP_Assignment_2.dll
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\bin\Debug\net8.0\CP_Assignment_2.pdb
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\obj\Debug\net8.0\CP_Assignment_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\obj\Debug\net8.0\CP_Assignment_2.AssemblyInfoInputs.cache
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\obj\Debug\net8.0\CP_Assignment_2.AssemblyInfo.cs
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\obj\Debug\net8.0\CP_Assignment_2.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\obj\Debug\net8.0\CP_Assignment_2.dll
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\obj\Debug\net8.0\refint\CP_Assignment_2.dll
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\obj\Debug\net8.0\CP_Assignment_2.pdb
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\obj\Debug\net8.0\CP_Assignment_2.genruntimeconfig.cache
+D:\HP\VS Projects\CPL Projects\Console app 9 LAB 9\obj\Debug\net8.0\ref\CP_Assignment_2.dll

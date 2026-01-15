@@ -1,0 +1,8 @@
+D:\HP\VS Projects\CPL Projects\Structures&Pointers\Structures&Pointers\bin\Debug\Structures&Pointers.exe.config
+D:\HP\VS Projects\CPL Projects\Structures&Pointers\Structures&Pointers\bin\Debug\Structures&Pointers.exe
+D:\HP\VS Projects\CPL Projects\Structures&Pointers\Structures&Pointers\bin\Debug\Structures&Pointers.pdb
+D:\HP\VS Projects\CPL Projects\Structures&Pointers\Structures&Pointers\obj\Debug\Structures&Pointers.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CPL Projects\Structures&Pointers\Structures&Pointers\obj\Debug\Structures&Pointers.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CPL Projects\Structures&Pointers\Structures&Pointers\obj\Debug\Structures&Pointers.exe
+D:\HP\VS Projects\CPL Projects\Structures&Pointers\Structures&Pointers\obj\Debug\Structures&Pointers.pdb
+D:\HP\VS Projects\CPL Projects\Structures&Pointers\Structures&Pointers\obj\Debug\Structures&Pointers.exe.config

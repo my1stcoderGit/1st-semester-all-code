@@ -1,0 +1,8 @@
+D:\HP\VS Projects\CPL Projects\ConsoleApp 4 LAB 4\ConsoleApp 4 LAB 4\obj\Debug\ConsoleApp 4 LAB 4.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CPL Projects\ConsoleApp 4 LAB 4\ConsoleApp 4 LAB 4\obj\Debug\ConsoleApp 4 LAB 4.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CPL Projects\ConsoleApp 4 LAB 4\ConsoleApp 4 LAB 4\bin\Debug\ConsoleApp 4 LAB 4.exe.config
+D:\HP\VS Projects\CPL Projects\ConsoleApp 4 LAB 4\ConsoleApp 4 LAB 4\bin\Debug\ConsoleApp 4 LAB 4.exe
+D:\HP\VS Projects\CPL Projects\ConsoleApp 4 LAB 4\ConsoleApp 4 LAB 4\bin\Debug\ConsoleApp 4 LAB 4.pdb
+D:\HP\VS Projects\CPL Projects\ConsoleApp 4 LAB 4\ConsoleApp 4 LAB 4\obj\Debug\ConsoleApp 4 LAB 4.exe
+D:\HP\VS Projects\CPL Projects\ConsoleApp 4 LAB 4\ConsoleApp 4 LAB 4\obj\Debug\ConsoleApp 4 LAB 4.pdb
+D:\HP\VS Projects\CPL Projects\ConsoleApp 4 LAB 4\ConsoleApp 4 LAB 4\obj\Debug\ConsoleApp 4 LAB 4.exe.config

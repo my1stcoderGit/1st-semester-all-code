@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Task 4 - Scrollspy Sections</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" />
+    <style>
+        body {
+            position: relative;
+        }
+
+        section {
+            height: 100vh;
+            padding: 40px;
+            color: white;
+            font-size: 1.2rem;
+        }
+
+        #section1 {
+            background-color: #28a745;
+        }
+
+        #section2 {
+            background-color: #ffc107;
+            color: black;
+        }
+
+        #section3 {
+            background-color: #6c757d;
+        }
+
+        #section4 {
+            background-color: #dc3545;
+        }
+
+        .navbar-nav .nav-link.active {
+            font-weight: bold;
+            color: #0d6efd !important;
+            text-decoration: underline;
+        }
+
+        .navbar {
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        div.sectext {
+            
+            padding-top: 90px;
+        }
+    </style>
+</head>
+
+<body data-bs-spy="scroll" data-bs-target="#navbarScrollspy" data-bs-offset="0" tabindex="0">
+
+    <!-- Fixed horizontal navbar -->
+    <nav id="navbarScrollspy" class="navbar navbar-light bg-light fixed-top">
+        <div class="container-fluid justify-content-center">
+            <ul class="nav nav-pills">
+                <li class="nav-item"><a class="nav-link" href="#section1">Section 1</a></li>
+                <li class="nav-item"><a class="nav-link" href="#section2">Section 2</a></li>
+                <li class="nav-item"><a class="nav-link" href="#section3">Section 3</a></li>
+                <li class="nav-item"><a class="nav-link" href="#section4">Section 4</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Sections -->
+    <section id="section1">
+        <div class="sectext">
+            <h2>Section 1</h2>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+        </div>
+    </section>
+
+    <section id="section2">
+        <div class="sectext">
+
+            <h2>Section 2</h2>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+        </div>
+
+    </section>
+
+    <section id="section3">
+        <div class="sectext">
+
+            <h2>Section 3</h2>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+        </div>
+
+    </section>
+
+    <section id="section4">
+        <div class="sectext">
+
+            <h2>Section 4 Submenu 1</h2>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+            <p>Try to scroll this section and look at the navigation bar while scrolling!</p>
+        </div>
+
+    </section>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,8 @@
+D:\HP\VS Projects\CP Projects\Week 4 Paractices\Week 4 Paractices\bin\Debug\Week 4 Paractices.exe.config
+D:\HP\VS Projects\CP Projects\Week 4 Paractices\Week 4 Paractices\bin\Debug\Week 4 Paractices.exe
+D:\HP\VS Projects\CP Projects\Week 4 Paractices\Week 4 Paractices\bin\Debug\Week 4 Paractices.pdb
+D:\HP\VS Projects\CP Projects\Week 4 Paractices\Week 4 Paractices\obj\Debug\Week 4 Paractices.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CP Projects\Week 4 Paractices\Week 4 Paractices\obj\Debug\Week 4 Paractices.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CP Projects\Week 4 Paractices\Week 4 Paractices\obj\Debug\Week 4 Paractices.exe
+D:\HP\VS Projects\CP Projects\Week 4 Paractices\Week 4 Paractices\obj\Debug\Week 4 Paractices.pdb
+D:\HP\VS Projects\CP Projects\Week 4 Paractices\Week 4 Paractices\obj\Debug\Week 4 Paractices.exe.config

@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run halo.py",
+      "type": "shell",
+      "command": "& 'D:\\HP\\Python3.14.0\\python.exe' ${file}",
+      "presentation": {
+        "reveal": "always",
+        "panel": "shared"
+      },
+      "problemMatcher": []
+    }
+  ]
+}

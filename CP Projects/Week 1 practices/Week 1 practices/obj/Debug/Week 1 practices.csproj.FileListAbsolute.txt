@@ -1,0 +1,8 @@
+D:\HP\VS Projects\CP Projects\Week 1 practices\Week 1 practices\obj\Debug\Week 1 practices.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CP Projects\Week 1 practices\Week 1 practices\obj\Debug\Week 1 practices.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CP Projects\Week 1 practices\Week 1 practices\bin\Debug\Week 1 practices.exe.config
+D:\HP\VS Projects\CP Projects\Week 1 practices\Week 1 practices\bin\Debug\Week 1 practices.exe
+D:\HP\VS Projects\CP Projects\Week 1 practices\Week 1 practices\bin\Debug\Week 1 practices.pdb
+D:\HP\VS Projects\CP Projects\Week 1 practices\Week 1 practices\obj\Debug\Week 1 practices.exe
+D:\HP\VS Projects\CP Projects\Week 1 practices\Week 1 practices\obj\Debug\Week 1 practices.pdb
+D:\HP\VS Projects\CP Projects\Week 1 practices\Week 1 practices\obj\Debug\Week 1 practices.exe.config

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPL Methods & Recursion", "CPL Methods & Recursion\CPL Methods & Recursion.csproj", "{F1F794D2-A480-49AD-9525-C6597D717D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1F794D2-A480-49AD-9525-C6597D717D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F794D2-A480-49AD-9525-C6597D717D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F794D2-A480-49AD-9525-C6597D717D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F794D2-A480-49AD-9525-C6597D717D55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54CF144B-C2B4-426B-A232-235D2BF19626}
+	EndGlobalSection
+EndGlobal

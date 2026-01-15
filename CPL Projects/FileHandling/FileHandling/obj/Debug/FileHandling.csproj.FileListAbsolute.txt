@@ -1,0 +1,8 @@
+D:\HP\VS Projects\CPL Projects\FileHandling\FileHandling\bin\Debug\FileHandling.exe.config
+D:\HP\VS Projects\CPL Projects\FileHandling\FileHandling\bin\Debug\FileHandling.exe
+D:\HP\VS Projects\CPL Projects\FileHandling\FileHandling\bin\Debug\FileHandling.pdb
+D:\HP\VS Projects\CPL Projects\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CPL Projects\FileHandling\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CPL Projects\FileHandling\FileHandling\obj\Debug\FileHandling.exe
+D:\HP\VS Projects\CPL Projects\FileHandling\FileHandling\obj\Debug\FileHandling.pdb
+D:\HP\VS Projects\CPL Projects\FileHandling\FileHandling\obj\Debug\FileHandling.exe.config

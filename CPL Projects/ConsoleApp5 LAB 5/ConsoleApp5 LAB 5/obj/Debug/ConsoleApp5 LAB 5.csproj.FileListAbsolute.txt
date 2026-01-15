@@ -1,0 +1,8 @@
+D:\HP\VS Projects\CPL Projects\ConsoleApp5 LAB 5\ConsoleApp5 LAB 5\bin\Debug\ConsoleApp5 LAB 5.exe.config
+D:\HP\VS Projects\CPL Projects\ConsoleApp5 LAB 5\ConsoleApp5 LAB 5\bin\Debug\ConsoleApp5 LAB 5.exe
+D:\HP\VS Projects\CPL Projects\ConsoleApp5 LAB 5\ConsoleApp5 LAB 5\bin\Debug\ConsoleApp5 LAB 5.pdb
+D:\HP\VS Projects\CPL Projects\ConsoleApp5 LAB 5\ConsoleApp5 LAB 5\obj\Debug\ConsoleApp5 LAB 5.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CPL Projects\ConsoleApp5 LAB 5\ConsoleApp5 LAB 5\obj\Debug\ConsoleApp5 LAB 5.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CPL Projects\ConsoleApp5 LAB 5\ConsoleApp5 LAB 5\obj\Debug\ConsoleApp5 LAB 5.exe
+D:\HP\VS Projects\CPL Projects\ConsoleApp5 LAB 5\ConsoleApp5 LAB 5\obj\Debug\ConsoleApp5 LAB 5.pdb
+D:\HP\VS Projects\CPL Projects\ConsoleApp5 LAB 5\ConsoleApp5 LAB 5\obj\Debug\ConsoleApp5 LAB 5.exe.config

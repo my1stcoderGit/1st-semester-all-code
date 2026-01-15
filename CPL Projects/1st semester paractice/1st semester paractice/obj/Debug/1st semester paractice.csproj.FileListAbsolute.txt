@@ -1,0 +1,8 @@
+D:\HP\VS Projects\CPL Projects\1st semester paractice\1st semester paractice\bin\Debug\1st semester paractice.exe.config
+D:\HP\VS Projects\CPL Projects\1st semester paractice\1st semester paractice\bin\Debug\1st semester paractice.exe
+D:\HP\VS Projects\CPL Projects\1st semester paractice\1st semester paractice\bin\Debug\1st semester paractice.pdb
+D:\HP\VS Projects\CPL Projects\1st semester paractice\1st semester paractice\obj\Debug\1st semester paractice.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CPL Projects\1st semester paractice\1st semester paractice\obj\Debug\1st semester paractice.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CPL Projects\1st semester paractice\1st semester paractice\obj\Debug\1st semester paractice.exe
+D:\HP\VS Projects\CPL Projects\1st semester paractice\1st semester paractice\obj\Debug\1st semester paractice.pdb
+D:\HP\VS Projects\CPL Projects\1st semester paractice\1st semester paractice\obj\Debug\1st semester paractice.exe.config

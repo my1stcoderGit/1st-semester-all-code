@@ -1,0 +1,8 @@
+D:\HP\VS Projects\CPL Projects\ConsoleApp6 lab 6\ConsoleApp6 lab 6\bin\Debug\ConsoleApp6 lab 6.exe.config
+D:\HP\VS Projects\CPL Projects\ConsoleApp6 lab 6\ConsoleApp6 lab 6\bin\Debug\ConsoleApp6 lab 6.exe
+D:\HP\VS Projects\CPL Projects\ConsoleApp6 lab 6\ConsoleApp6 lab 6\bin\Debug\ConsoleApp6 lab 6.pdb
+D:\HP\VS Projects\CPL Projects\ConsoleApp6 lab 6\ConsoleApp6 lab 6\obj\Debug\ConsoleApp6 lab 6.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CPL Projects\ConsoleApp6 lab 6\ConsoleApp6 lab 6\obj\Debug\ConsoleApp6 lab 6.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CPL Projects\ConsoleApp6 lab 6\ConsoleApp6 lab 6\obj\Debug\ConsoleApp6 lab 6.exe
+D:\HP\VS Projects\CPL Projects\ConsoleApp6 lab 6\ConsoleApp6 lab 6\obj\Debug\ConsoleApp6 lab 6.pdb
+D:\HP\VS Projects\CPL Projects\ConsoleApp6 lab 6\ConsoleApp6 lab 6\obj\Debug\ConsoleApp6 lab 6.exe.config

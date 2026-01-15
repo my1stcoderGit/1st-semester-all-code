@@ -1,0 +1,8 @@
+D:\HP\VS Projects\CP Projects\CP Assignment 1\CP Assignment 1\obj\Debug\CP Assignment 1.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CP Projects\CP Assignment 1\CP Assignment 1\obj\Debug\CP Assignment 1.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CP Projects\CP Assignment 1\CP Assignment 1\bin\Debug\CP Assignment 1.exe.config
+D:\HP\VS Projects\CP Projects\CP Assignment 1\CP Assignment 1\bin\Debug\CP Assignment 1.exe
+D:\HP\VS Projects\CP Projects\CP Assignment 1\CP Assignment 1\bin\Debug\CP Assignment 1.pdb
+D:\HP\VS Projects\CP Projects\CP Assignment 1\CP Assignment 1\obj\Debug\CP Assignment 1.exe
+D:\HP\VS Projects\CP Projects\CP Assignment 1\CP Assignment 1\obj\Debug\CP Assignment 1.pdb
+D:\HP\VS Projects\CP Projects\CP Assignment 1\CP Assignment 1\obj\Debug\CP Assignment 1.exe.config

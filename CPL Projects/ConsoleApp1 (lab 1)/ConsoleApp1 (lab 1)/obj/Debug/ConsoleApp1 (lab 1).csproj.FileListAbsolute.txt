@@ -1,0 +1,8 @@
+D:\HP\VS Projects\ConsoleApp1 (lab 1)\ConsoleApp1 (lab 1)\bin\Debug\ConsoleApp1 (lab 1).exe.config
+D:\HP\VS Projects\ConsoleApp1 (lab 1)\ConsoleApp1 (lab 1)\bin\Debug\ConsoleApp1 (lab 1).exe
+D:\HP\VS Projects\ConsoleApp1 (lab 1)\ConsoleApp1 (lab 1)\bin\Debug\ConsoleApp1 (lab 1).pdb
+D:\HP\VS Projects\ConsoleApp1 (lab 1)\ConsoleApp1 (lab 1)\obj\Debug\ConsoleApp1 (lab 1).csproj.AssemblyReference.cache
+D:\HP\VS Projects\ConsoleApp1 (lab 1)\ConsoleApp1 (lab 1)\obj\Debug\ConsoleApp1 (lab 1).csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\ConsoleApp1 (lab 1)\ConsoleApp1 (lab 1)\obj\Debug\ConsoleApp1 (lab 1).exe
+D:\HP\VS Projects\ConsoleApp1 (lab 1)\ConsoleApp1 (lab 1)\obj\Debug\ConsoleApp1 (lab 1).pdb
+D:\HP\VS Projects\ConsoleApp1 (lab 1)\ConsoleApp1 (lab 1)\obj\Debug\ConsoleApp1 (lab 1).exe.config

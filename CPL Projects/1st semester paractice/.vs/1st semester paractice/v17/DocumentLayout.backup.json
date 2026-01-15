@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HP\\VS Projects\\CPL Projects\\1st semester paractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B413AA9-D2E1-4E8E-BA38-31D48CF5A668}|1st semester paractice\\1st semester paractice.csproj|d:\\hp\\vs projects\\cpl projects\\1st semester paractice\\1st semester paractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B413AA9-D2E1-4E8E-BA38-31D48CF5A668}|1st semester paractice\\1st semester paractice.csproj|solutionrelative:1st semester paractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HP\\VS Projects\\CPL Projects\\1st semester paractice\\1st semester paractice\\Program.cs",
+              "RelativeDocumentMoniker": "1st semester paractice\\Program.cs",
+              "ToolTip": "D:\\HP\\VS Projects\\CPL Projects\\1st semester paractice\\1st semester paractice\\Program.cs",
+              "RelativeToolTip": "1st semester paractice\\Program.cs",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAABUBAAANAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T09:54:12.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

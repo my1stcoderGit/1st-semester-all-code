@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HP\\VS Projects\\CPL Projects\\ConsoleApp 4 LAB 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E7E54B60-20DD-4A21-A12A-1907136368B9}|ConsoleApp 4 LAB 4\\ConsoleApp 4 LAB 4.csproj|d:\\hp\\vs projects\\cpl projects\\consoleapp 4 lab 4\\consoleapp 4 lab 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7E54B60-20DD-4A21-A12A-1907136368B9}|ConsoleApp 4 LAB 4\\ConsoleApp 4 LAB 4.csproj|solutionrelative:consoleapp 4 lab 4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HP\\VS Projects\\CPL Projects\\ConsoleApp 4 LAB 4\\ConsoleApp 4 LAB 4\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp 4 LAB 4\\Program.cs",
+              "ToolTip": "D:\\HP\\VS Projects\\CPL Projects\\ConsoleApp 4 LAB 4\\ConsoleApp 4 LAB 4\\Program.cs",
+              "RelativeToolTip": "ConsoleApp 4 LAB 4\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T08:16:33.391Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

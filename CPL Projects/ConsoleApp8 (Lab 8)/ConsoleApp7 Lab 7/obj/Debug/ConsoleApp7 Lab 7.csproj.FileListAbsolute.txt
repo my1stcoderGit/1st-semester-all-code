@@ -1,0 +1,16 @@
+D:\HP\VS Projects\CPL Projects\ConsoleApp7 Lab 7\ConsoleApp7 Lab 7\bin\Debug\ConsoleApp7 Lab 7.exe.config
+D:\HP\VS Projects\CPL Projects\ConsoleApp7 Lab 7\ConsoleApp7 Lab 7\bin\Debug\ConsoleApp7 Lab 7.exe
+D:\HP\VS Projects\CPL Projects\ConsoleApp7 Lab 7\ConsoleApp7 Lab 7\bin\Debug\ConsoleApp7 Lab 7.pdb
+D:\HP\VS Projects\CPL Projects\ConsoleApp7 Lab 7\ConsoleApp7 Lab 7\obj\Debug\ConsoleApp7 Lab 7.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CPL Projects\ConsoleApp7 Lab 7\ConsoleApp7 Lab 7\obj\Debug\ConsoleApp7 Lab 7.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CPL Projects\ConsoleApp7 Lab 7\ConsoleApp7 Lab 7\obj\Debug\ConsoleApp7 Lab 7.exe
+D:\HP\VS Projects\CPL Projects\ConsoleApp7 Lab 7\ConsoleApp7 Lab 7\obj\Debug\ConsoleApp7 Lab 7.pdb
+D:\HP\VS Projects\CPL Projects\ConsoleApp7 Lab 7\ConsoleApp7 Lab 7\obj\Debug\ConsoleApp7 Lab 7.exe.config
+D:\HP\VS Projects\CPL Projects\ConsoleApp8 (Lab 8)\ConsoleApp7 Lab 7\bin\Debug\ConsoleApp7 Lab 7.exe.config
+D:\HP\VS Projects\CPL Projects\ConsoleApp8 (Lab 8)\ConsoleApp7 Lab 7\bin\Debug\ConsoleApp7 Lab 7.exe
+D:\HP\VS Projects\CPL Projects\ConsoleApp8 (Lab 8)\ConsoleApp7 Lab 7\bin\Debug\ConsoleApp7 Lab 7.pdb
+D:\HP\VS Projects\CPL Projects\ConsoleApp8 (Lab 8)\ConsoleApp7 Lab 7\obj\Debug\ConsoleApp7 Lab 7.csproj.AssemblyReference.cache
+D:\HP\VS Projects\CPL Projects\ConsoleApp8 (Lab 8)\ConsoleApp7 Lab 7\obj\Debug\ConsoleApp7 Lab 7.exe.config
+D:\HP\VS Projects\CPL Projects\ConsoleApp8 (Lab 8)\ConsoleApp7 Lab 7\obj\Debug\ConsoleApp7 Lab 7.csproj.CoreCompileInputs.cache
+D:\HP\VS Projects\CPL Projects\ConsoleApp8 (Lab 8)\ConsoleApp7 Lab 7\obj\Debug\ConsoleApp7 Lab 7.exe
+D:\HP\VS Projects\CPL Projects\ConsoleApp8 (Lab 8)\ConsoleApp7 Lab 7\obj\Debug\ConsoleApp7 Lab 7.pdb
